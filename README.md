@@ -1,5 +1,4 @@
-# Hehebbian-Riddiculum
-# Hehebbian Riddiculum: Switching Between Learning Rules
+# Switching Between Learning Rules
 
 > **Neuromatch Academy (NMA) Group Project**
 
